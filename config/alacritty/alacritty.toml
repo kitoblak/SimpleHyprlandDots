@@ -1,0 +1,6 @@
+[font.normal]
+family = "Jetbrains Mono"
+
+[terminal.shell]
+program = "/bin/zsh"
+args = ["-l"]
